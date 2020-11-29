@@ -1,0 +1,62 @@
+/*=================Tag Selector=================*/
+body{
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+}
+
+h4{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+}
+
+h3{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+}
+
+p{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+}
+
+li{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+}
+
+/*=================Div Class Selector=================*/
+.content-box{
+    border: 1px solid black;
+    padding: 10px;
+    margin: auto;
+    width: 90%;
+}
+.skills-container{
+    display: flex;
+    align-items: center stretch;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.skills-box{
+    width: 200px;
+}
+/*=================Class Selector=================*/
+.bold-text{
+    font-weight: bold;
+}
+
+.circle-style-list{
+    list-style-type: circle;
+}
+
+.none-style-list{
+    list-style-type: none;
+}
